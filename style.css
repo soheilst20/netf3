@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.conteiner {
+    max-width: 80%;
+    margin: 4em auto;
+    display: flex;
+    justify-content: center;
+    border: 2px dashed blue;
+}
+
+#h {
+    background-color: rgb(194, 241, 194);
+    padding: 2em;
+    display: inline-block;
+    border: 1px solid green
+}
+
+img {
+    width: 300px;
+}
